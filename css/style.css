@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 255, 204);
+}
+
+p {
+    color: #00b3b3;
+    border: 3px dotted currentColor;
+}
+
+div {
+    background-color: hsl(336, 70%, 50%);
+    font-weight: bold;
+}
